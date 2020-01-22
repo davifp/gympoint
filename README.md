@@ -1,4 +1,4 @@
-<h1>Desafio 2 e 3 Rocketseat</h1>
+<h1 align="center">Desafio 2 e 3 Rocketseat</h1>
 
 
 ## Desafio 2
